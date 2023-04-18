@@ -43,7 +43,7 @@ public class GesturesSwipeIOS {
                     .release()
                     .perform();
 
-
+//test GIT
 
         //332,1908
         //518,312
